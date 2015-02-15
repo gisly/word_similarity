@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/common_constants.py=utf-8
+encoding//src/evaluator.py=utf-8
+encoding//src/example_generator.py=utf-8
+encoding//src/file_processor.py=utf-8
+encoding//src/file_utils.py=utf-8
+encoding//src/flickr_downloader.py=utf-8
+encoding//src/graph_property_calculator.py=utf-8
+encoding//src/language_utils.py=utf-8
+encoding//src/morphology.py=utf-8
+encoding//src/score_calculator.py=utf-8
+encoding//src/training_processor.py=utf-8
+encoding//src/vector_processor.py=utf-8
+encoding//src/web_utils.py=utf-8
+encoding//src/word_db.py=utf-8
+encoding//src/word_processor.py=utf-8
